@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1529680666944" clover="3.2.0">
+  <project timestamp="1529680666944" name="All files">
+    <metrics statements="34" coveredstatements="17" conditionals="20" coveredconditionals="9" methods="4" coveredmethods="3" elements="58" coveredelements="29" complexity="0" loc="34" ncloc="34" packages="1" files="1" classes="1">
+      <file name="oltojson.js" path="/Users/d032233/dev/github/oltojson/lib/oltojson.js">
+        <metrics statements="34" coveredstatements="17" conditionals="20" coveredconditionals="9" methods="4" coveredmethods="3"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="12" count="6" type="stmt"/>
+        <line num="20" count="6" type="stmt"/>
+        <line num="22" count="6" type="stmt"/>
+        <line num="24" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="25" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="27" count="6" type="stmt"/>
+        <line num="28" count="15" type="stmt"/>
+        <line num="30" count="15" type="stmt"/>
+        <line num="32" count="15" type="stmt"/>
+        <line num="34" count="105" type="cond" truecount="2" falsecount="0"/>
+        <line num="42" count="105" type="stmt"/>
+        <line num="45" count="15" type="cond" truecount="3" falsecount="1"/>
+        <line num="46" count="15" type="stmt"/>
+        <line num="49" count="6" type="stmt"/>
+        <line num="72" count="0" type="stmt"/>
+        <line num="73" count="0" type="stmt"/>
+        <line num="74" count="0" type="stmt"/>
+        <line num="76" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="78" count="0" type="stmt"/>
+        <line num="81" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="82" count="0" type="stmt"/>
+        <line num="85" count="0" type="stmt"/>
+        <line num="86" count="0" type="stmt"/>
+        <line num="87" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="89" count="0" type="stmt"/>
+        <line num="92" count="0" type="stmt"/>
+        <line num="93" count="0" type="stmt"/>
+        <line num="96" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="99" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="100" count="0" type="stmt"/>
+        <line num="101" count="0" type="stmt"/>
+        <line num="107" count="2" type="stmt"/>
+      </file>
+    </metrics>
+  </project>
+</coverage>
